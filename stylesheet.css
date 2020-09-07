@@ -1,0 +1,172 @@
+body {
+    font-family: "Helvetica";
+    /*background-color: black;*/
+  }
+
+li {
+    list-style: none;
+  }
+  header{
+    background-color: #F1C40F;
+    color:#fff;
+    height:80px;
+  }
+  .header-logo
+  {
+    float:left;
+    font-size:32px;
+    padding: 21px 40px;
+  }
+  .header-list{
+    float:left;
+  }
+  .header-list li
+  {
+    float:left;
+    padding:16px 20px;
+    font-size:20px;
+  }
+  .copy-container h1{
+    background-image: url();
+    background-size: cover;
+    font-size:40px;
+    color:green;
+  }
+  .contents {            
+    height: 500px;            
+    margin-top: 100px;
+  }
+  .contents h3
+  {
+     border-bottom: 2px solid #dee7ec;
+    font-size: 28px;
+    padding-bottom: 15px;
+    margin-bottom:50px;
+  }
+  .contents-items{
+    float:left;
+    margin-right:60px;
+    margin-left:60px;
+    
+  }
+  .contents-items p{
+    margin-top:35px;
+    font-size:24px;
+    text-align: center;
+  }
+  .section-title h2{
+    font-size:28px;
+    border-bottom:2px solid #dee7ec;
+    padding-bottom:15px;
+    margin-bottom:50px;
+    margin-top:10px;
+    font-weight: normal;
+    background-color: #F1C40F;
+    color: #fff;
+
+  }
+  input{
+    width:300px;
+    margin-top:10px;
+    margin-bottom:30px;
+    padding:20px;
+    font-size:10px;
+    border:1px solid #dee7ec;
+  }
+  .contact-submit {
+    background-color:#dee7ec;
+   color:#889eab;
+  }
+
+  .section-title1 h2{
+    font-size:28px;
+    border-bottom:2px solid #dee7ec;
+    padding-bottom:15px;
+    margin-bottom:50px;
+    margin-top:10px;
+    font-weight: normal;
+    background-color: #F1C40F;
+    color: #fff;
+  }
+  .lesson-wrapper {
+    height: 500px;
+    padding-bottom: 80px;
+    background-color: #f7f7f7;
+    text-align: center;
+  }
+  
+  .heading {
+    padding-top: 60px;
+    padding-bottom: 30px;
+    color: white;
+    border-bottom:2px solid #dee7ec;
+    padding-bottom:15px;
+    margin-bottom:50px;
+    margin-top:10px;
+    background-color:  #F1C40F;
+  }
+  
+  .heading h2 {
+    font-weight: normal;
+  }
+  
+  .lesson {
+    float: left;
+    width: 25%;
+  }
+  
+  .lesson-icon {
+    position: relative;
+  }
+  
+  .lesson-icon p{
+    position: absolute;
+    top: 78px;
+    width: 100%;
+    color:white;
+    font-size: 16px;
+  }
+  
+  .txt-contents {
+    width: 80%;
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 16px;
+    color:black;
+
+  }
+  
+  .heading h3 {
+    font-weight: normal;
+    font-size:25px;
+  }
+  .top-wrapper
+{
+  padding-top: 180px;
+  padding-bottom: 120px;
+  color:#F1C40F;
+  background-color:black;
+  background-size:cover;
+  opacity: 0.9;
+   text-align: center;
+   font-family: 'Permanent Marker', cursive;
+   font-weight: bold;
+}
+.heading h2{
+  font-size:25px;
+  padding-top:0px;
+  margin-top:0px;
+}
+.container p{
+  font-size:32px;
+  font-family: 'Permanent Marker', cursive;
+}
+a{
+  text-decoration: none;
+}
+a {
+  color: white;
+}
+a:hover{
+  color:black;
+}

@@ -1,0 +1,43 @@
+
+body {
+    font-family: "Helvetica";
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+.questions h3{
+    font-size:28px;
+    border-bottom:2px solid #F1C40F;
+    padding-bottom:15px;
+    margin-bottom:50px;
+    margin-top:10px;
+    font-weight: normal;
+  }
+  li{
+    padding-top:15px;
+    padding-bottom:15px;
+  }
+  a{
+      text-decoration: none;
+  }
+  a{
+    color:#4CAF50;
+    font-size: 20px;
+  }
+a:hover{
+    color:green;
+  }
+  .top-wrapper
+  {
+    padding-top: 70px;
+    padding-bottom: 250px;
+    color:#F1C40F;
+    background-image:url(https://wallpapercave.com/wp/wp2234615.png);
+    background-size:cover;
+    opacity: 0.9;
+     text-align: center;
+     font-family:"Garamond";
+     font-weight: bold;
+  }
+  .container p{
+    font-size:32px;
+    font-family:"Garamond";
